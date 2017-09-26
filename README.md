@@ -6,3 +6,4 @@
 - [Javacript深浅克隆 2017-09-24](https://github.com/Ryron/Blog/issues/3)
 - [不借助变量交换a、b的值 2017-09-25](https://github.com/Ryron/Blog/issues/4)
 - [数组长度及遍历 2017-09-25](https://github.com/Ryron/Blog/issues/5)
+- [MVVM双向绑定的简单理解 2017-09-26](https://github.com/Ryron/Blog/issues/6)
