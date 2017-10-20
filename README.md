@@ -7,3 +7,6 @@
 - [不借助变量交换a、b的值 2017-09-25](https://github.com/Ryron/Blog/issues/4)
 - [数组长度及遍历 2017-09-25](https://github.com/Ryron/Blog/issues/5)
 - [MVVM双向绑定的简单理解 2017-09-26](https://github.com/Ryron/Blog/issues/6)
+- [软件开源协议](https://github.com/Ryron/Blog/issues/8)
+- [Js实现链式方法 f(2, 3) = f(2)(3) = 5](https://github.com/Ryron/Blog/issues/9)
+- [Promise小结](https://github.com/Ryron/Blog/issues/12)
