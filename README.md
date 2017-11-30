@@ -12,3 +12,4 @@
 - [Js实现链式方法 f(2, 3) = f(2)(3) = 5](https://github.com/Ryron/Blog/issues/9)
 - [JsonEqual](https://github.com/Ryron/Blog/issues/11)
 - [Promise小结](https://github.com/Ryron/Blog/issues/12)
+- [H5页面开发小结](https://github.com/Ryron/Blog/issues/16)
