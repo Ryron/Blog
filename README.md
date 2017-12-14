@@ -14,3 +14,4 @@
 - [Promise小结](https://github.com/Ryron/Blog/issues/12)
 - [promiseAjax](https://github.com/Ryron/Blog/issues/13)
 - [H5页面开发小结](https://github.com/Ryron/Blog/issues/16)
+- [Async/await](https://github.com/Ryron/Blog/issues/17)
