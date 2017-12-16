@@ -15,3 +15,4 @@
 - [promiseAjax](https://github.com/Ryron/Blog/issues/13)
 - [H5页面开发小结](https://github.com/Ryron/Blog/issues/16)
 - [Async/await](https://github.com/Ryron/Blog/issues/17)
+- [Javascript 的debounce 与 throttle函数](https://github.com/Ryron/Blog/issues/18)
