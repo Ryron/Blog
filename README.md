@@ -19,3 +19,4 @@
 - [Javascript设计模式](https://github.com/Ryron/Blog/issues/19)
 - [Javascript正则表达式 2018-01-08](https://github.com/Ryron/Blog/issues/20)
 - [webp](https://github.com/Ryron/Blog/issues/21)
+- [ES6常用特性](https://github.com/Ryron/Blog/issues/22)
