@@ -1,6 +1,14 @@
 # Diary
 > 没有干货，纯属吹水
-## 列表
+
+## 2018
+- [Javascript设计模式](https://github.com/Ryron/Diary/issues/19)
+- [Javascript正则表达式 2018-01-08](https://github.com/Ryron/Diary/issues/20)
+- [webp](https://github.com/Ryron/Diary/issues/21)
+- [ES6常用特性](https://github.com/Ryron/Diary/issues/22)
+- [继承](https://github.com/Ryron/Diary/issues/23)
+
+## 2017
 - [Javascript值传递与引用传递](https://github.com/Ryron/Diary/issues/1)
 - [Javascript数组去重 2017-09-11](https://github.com/Ryron/Diary/issues/2)
 - [Javacript深浅克隆 2017-09-24](https://github.com/Ryron/Diary/issues/3)
@@ -16,7 +24,4 @@
 - [H5页面开发小结](https://github.com/Ryron/Diary/issues/16)
 - [Async/await](https://github.com/Ryron/Diary/issues/17)
 - [Javascript 的debounce 与 throttle函数](https://github.com/Ryron/Diary/issues/18)
-- [Javascript设计模式](https://github.com/Ryron/Diary/issues/19)
-- [Javascript正则表达式 2018-01-08](https://github.com/Ryron/Diary/issues/20)
-- [webp](https://github.com/Ryron/Diary/issues/21)
-- [ES6常用特性](https://github.com/Ryron/Diary/issues/22)
+
