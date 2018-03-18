@@ -7,6 +7,7 @@
 - [webp](https://github.com/Ryron/Diary/issues/21)
 - [ES6常用特性](https://github.com/Ryron/Diary/issues/22)
 - [继承](https://github.com/Ryron/Diary/issues/23)
+- [REST API](https://github.com/Ryron/Diary/issues/24)
 
 ## 2017
 - [Javascript值传递与引用传递](https://github.com/Ryron/Diary/issues/1)
