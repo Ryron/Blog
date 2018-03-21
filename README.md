@@ -1,5 +1,5 @@
 # Diary
-> 没有干货，纯属吹水
+> 没有干货，纯属日常记录
 
 ## 2018
 - [Javascript设计模式](https://github.com/Ryron/Diary/issues/19)
