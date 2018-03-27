@@ -12,6 +12,12 @@
 
 ## 2017
 - [跨域请求 JSONP & CORS](https://github.com/Ryron/Diary/issues/26)
+- [跨域与同源策略](https://github.com/Ryron/Diary/issues/28)
+- [跨站脚本攻击（XSS）](https://github.com/Ryron/Diary/issues/29)
+- [跨站请求伪造 CSRF](https://github.com/Ryron/Diary/issues/30)
+- [call 和 apply](https://github.com/Ryron/Diary/issues/27)
+- [Javascript类型判断](https://github.com/Ryron/Diary/issues/31)
+- [node进程管理工具pm2](https://github.com/Ryron/Diary/issues/32)
 - [Javascript值传递与引用传递](https://github.com/Ryron/Diary/issues/1)
 - [Javascript数组去重](https://github.com/Ryron/Diary/issues/2)
 - [Javacript深浅克隆](https://github.com/Ryron/Diary/issues/3)
