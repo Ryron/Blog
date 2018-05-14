@@ -2,6 +2,7 @@
 > 没有干货，纯属日常记录
 
 ## 2018
+- [HTTP缓存](https://github.com/Ryron/Diary/issues/33)
 - [forEach map filter](https://github.com/Ryron/Diary/issues/25)
 - [REST API](https://github.com/Ryron/Diary/issues/24)
 - [继承](https://github.com/Ryron/Diary/issues/23)
