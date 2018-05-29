@@ -2,6 +2,7 @@
 > 没有干货，纯属日常记录
 
 ## 2018
+- [Javascript 私有方法和属性](https://github.com/Ryron/Diary/issues/35)
 - [vim常用命令](https://github.com/Ryron/Diary/issues/34)
 - [HTTP缓存](https://github.com/Ryron/Diary/issues/33)
 - [forEach map filter](https://github.com/Ryron/Diary/issues/25)
